@@ -1,6 +1,3 @@
-
-!pip install pandas
-
-import pandas as pd
+import sys
 
 print('Sundesh')
